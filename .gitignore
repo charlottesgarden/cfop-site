@@ -1,0 +1,6 @@
+# Original full-resolution photos, not needed for the live site
+images/*.JPG
+images/*.jpg
+images/*.HEIC
+images/*.MP4
+images/*.png

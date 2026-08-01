@@ -74,9 +74,9 @@ section{padding:88px 0}
 .flip:hover .flip-inner{transform:rotateY(180deg)}
 .flip-face{position:absolute;inset:0;backface-visibility:hidden;border-radius:10px;overflow:hidden}
 .flip-front{display:flex;align-items:flex-end;background:linear-gradient(135deg,var(--sage) 0%,var(--aubergine) 100%)}
-.flip-front .tag{position:relative;z-index:1;padding:20px;color:#fff}
-.flip-front .tag .eyebrow{color:rgba(255,255,255,0.75)}
-.flip-front .tag h3{color:#fff;font-size:24px;margin-top:4px}
+.flip-front .tag{position:relative;z-index:1;padding:20px;color:var(--gold)}
+.flip-front .tag .eyebrow{color:rgba(216,185,66,0.85)}
+.flip-front .tag h3{color:var(--gold);font-size:24px;margin-top:4px}
 .flip-back{transform:rotateY(180deg);background:var(--aubergine-deep);color:var(--cream);padding:26px;display:flex;flex-direction:column;justify-content:center}
 .flip-back h4{font-family:'Bodoni Moda',Georgia,serif;font-size:20px;color:var(--gold);margin-bottom:10px}
 .flip-back p{font-size:13px;color:rgba(246,239,228,0.85);line-height:1.7;margin-bottom:6px}
@@ -175,24 +175,20 @@ footer a{text-decoration:underline}
           </div>
           <div class="flip-face flip-back">
             <h4>Cherokee Purple</h4>
-            <p>Deep, dusky, sweet-savory heirloom. One of the varieties that survived this year's dry stretch when little else did.</p>
-            <div class="price">Seed &amp; produce &middot; ask at the stand</div>
+            <p>Deep, dusky, sweet-savory heirloom, growing in the garden right now. Not yet ready to harvest, check back as the season goes on.</p>
+            <div class="price">Growing now &middot; not yet available</div>
           </div>
         </div>
       </div>
 
-      <div class="flip">
-        <div class="flip-inner">
-          <div class="flip-face flip-front" style="background-image:linear-gradient(0deg,rgba(20,14,10,0.55),rgba(20,14,10,0.1)),url('../images/webp/FC95CDE7-588D-429B-BCA8-24E2806A56F8%202.webp');background-size:cover;background-position:center">
-            <div class="tag"><div class="eyebrow">Flower</div><h3>Lemon Queen Sunflower</h3></div>
-          </div>
-          <div class="flip-face flip-back">
-            <h4>Lemon Queen Sunflower</h4>
-            <p>Pale gold, pollinator-friendly, and one of the toughest bloomers in the whole garden this season.</p>
-            <div class="price">Seed &middot; ask at the stand</div>
+      <a class="flip" href="../images/gallery.html" style="display:block;text-decoration:none;position:relative;border-radius:10px;overflow:hidden;box-shadow:0 8px 24px rgba(43,36,32,0.14);background:linear-gradient(135deg,var(--aubergine) 0%,var(--gold-deep) 100%)">
+        <div style="position:absolute;inset:0;display:flex;align-items:flex-end;padding:20px">
+          <div>
+            <div class="eyebrow" style="color:rgba(216,185,66,0.85)">See It All</div>
+            <h3 style="color:var(--gold);font-size:24px;margin-top:4px;font-family:'Bodoni Moda',Georgia,serif">Every Photo We've Got</h3>
           </div>
         </div>
-      </div>
+      </a>
 
       <div class="flip">
         <div class="flip-inner">

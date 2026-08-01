@@ -3,7 +3,7 @@
   "n": 1,
   "file": "003E86C5-CD76-47C6-BD5D-16AF453C9C92 2.webp",
   "src": "webp/003E86C5-CD76-47C6-BD5D-16AF453C9C92 2.webp",
-  "title": "Hummingbird at the Mexican Sunflower",
+  "title": "Hummingbird and a Mexican Sunflower (Tithonia rotundifolia 'Red Torch')",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -15,7 +15,7 @@
   "n": 2,
   "file": "0708645D-8DB2-4D8E-B36B-9E402668B18A.webp",
   "src": "webp/0708645D-8DB2-4D8E-B36B-9E402668B18A.webp",
-  "title": "Autumn Gourds on the Bench",
+  "title": "Organic Gourds and Pumpkins on a Chair",
   "cat": "squash",
   "when": "",
   "note": "",
@@ -27,7 +27,7 @@
   "n": 3,
   "file": "07B8E967-AF98-48D8-B460-7D712240C3FB.webp",
   "src": "webp/07B8E967-AF98-48D8-B460-7D712240C3FB.webp",
-  "title": "Pumpkin in the Grass",
+  "title": "Turban Pumpkin in the Grass",
   "cat": "squash",
   "when": "",
   "note": "",
@@ -45,13 +45,13 @@
   "note": "",
   "portrait": false,
   "tone": "#91928D",
-  "keep": true
+  "keep": false
  },
  {
   "n": 5,
   "file": "1DE986EE-4F77-4164-837D-09E5090AD162.webp",
   "src": "webp/1DE986EE-4F77-4164-837D-09E5090AD162.webp",
-  "title": "Dried Red Chiles",
+  "title": "The Kalugeritsa Pepper \u2014 a Rare Heirloom Chili from North Macedonia, John's Personal Favorite",
   "cat": "peppers",
   "when": "",
   "note": "",
@@ -69,13 +69,13 @@
   "note": "",
   "portrait": false,
   "tone": "#997A75",
-  "keep": true
+  "keep": false
  },
  {
   "n": 7,
   "file": "25B3D231-7354-45B3-8A49-CCDF2ECFE115 2.webp",
   "src": "webp/25B3D231-7354-45B3-8A49-CCDF2ECFE115 2.webp",
-  "title": "Planting Out the Rows",
+  "title": "Prepping the Rows for the Starts",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -93,7 +93,7 @@
   "note": "",
   "portrait": false,
   "tone": "#9A7B76",
-  "keep": true
+  "keep": false
  },
  {
   "n": 9,
@@ -111,7 +111,7 @@
   "n": 10,
   "file": "2B2B0733-7B2C-4062-83EA-458DC94EE4D0 2.webp",
   "src": "webp/2B2B0733-7B2C-4062-83EA-458DC94EE4D0 2.webp",
-  "title": "Newly Planted Rows",
+  "title": "Charlotte Planting the Starts She Grew from Seed",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -135,7 +135,7 @@
   "n": 12,
   "file": "30F8417F-AB15-459A-B4C9-D1B8B2559DC9.webp",
   "src": "webp/30F8417F-AB15-459A-B4C9-D1B8B2559DC9.webp",
-  "title": "The Whole Harvest, Laid Out",
+  "title": "Amazing Heirlooms",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -147,7 +147,7 @@
   "n": 13,
   "file": "327BEA70-758A-414D-968E-FFD8ED4A0D9E 2.webp",
   "src": "webp/327BEA70-758A-414D-968E-FFD8ED4A0D9E 2.webp",
-  "title": "Rows and Stakes",
+  "title": "The Start of the Season",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -171,7 +171,7 @@
   "n": 15,
   "file": "3DC4BF5B-EE67-42E8-AD12-690ED2EBC0CC.webp",
   "src": "webp/3DC4BF5B-EE67-42E8-AD12-690ED2EBC0CC.webp",
-  "title": "Peppers on the Plaid",
+  "title": "Organic Peppers and Plaid",
   "cat": "peppers",
   "when": "",
   "note": "",
@@ -189,7 +189,7 @@
   "note": "",
   "portrait": false,
   "tone": "#787263",
-  "keep": true
+  "keep": false
  },
  {
   "n": 17,
@@ -201,13 +201,13 @@
   "note": "",
   "portrait": false,
   "tone": "#807F49",
-  "keep": true
+  "keep": false
  },
  {
   "n": 18,
   "file": "4232461B-8414-4C6B-9C18-21E6039CF927 2.webp",
   "src": "webp/4232461B-8414-4C6B-9C18-21E6039CF927 2.webp",
-  "title": "Hummingbird at the Tithonia",
+  "title": "Hummingbird Taking a Drink",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -225,7 +225,7 @@
   "note": "",
   "portrait": false,
   "tone": "#90856F",
-  "keep": true
+  "keep": false
  },
  {
   "n": 20,
@@ -237,13 +237,13 @@
   "note": "",
   "portrait": false,
   "tone": "#937471",
-  "keep": true
+  "keep": false
  },
  {
   "n": 21,
   "file": "46A8AAAA-BDE9-4AA7-8933-22F4D7D05E42 2.webp",
   "src": "webp/46A8AAAA-BDE9-4AA7-8933-22F4D7D05E42 2.webp",
-  "title": "Breaking Ground",
+  "title": "The Start of Our 2026 Season (and John's New Tiller)",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -255,7 +255,7 @@
   "n": 22,
   "file": "4A39FB12-1AB3-4E5A-9280-FD754962B520 2.webp",
   "src": "webp/4A39FB12-1AB3-4E5A-9280-FD754962B520 2.webp",
-  "title": "Planting a Seedling",
+  "title": "Me Tying Back Our Organic Produce, Grown from My Personal Seed Collection Acclimated to Our Desert Climate",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -273,7 +273,7 @@
   "note": "",
   "portrait": true,
   "tone": "#798044",
-  "keep": true
+  "keep": false
  },
  {
   "n": 24,
@@ -285,13 +285,13 @@
   "note": "",
   "portrait": false,
   "tone": "#8B6868",
-  "keep": true
+  "keep": false
  },
  {
   "n": 25,
   "file": "5464CF86-401F-48E3-ADF1-057C59D4243D 2.webp",
   "src": "webp/5464CF86-401F-48E3-ADF1-057C59D4243D 2.webp",
-  "title": "Morning Glories on the Post",
+  "title": "Morning Glories Enjoying the Light",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -303,7 +303,7 @@
   "n": 26,
   "file": "5CD7E8BB-43C8-4DEA-93B7-AF7FFAFF5E95 2.webp",
   "src": "webp/5CD7E8BB-43C8-4DEA-93B7-AF7FFAFF5E95 2.webp",
-  "title": "Charlotte Working the Rows",
+  "title": "Me Working the Rows",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -321,13 +321,13 @@
   "note": "",
   "portrait": false,
   "tone": "#947B68",
-  "keep": true
+  "keep": false
  },
  {
   "n": 28,
   "file": "6273247F-C5BE-420C-BA7D-7B06ADB5D98E 2.webp",
   "src": "webp/6273247F-C5BE-420C-BA7D-7B06ADB5D98E 2.webp",
-  "title": "Purple Morning Glories",
+  "title": "Our 2024 Arch \u2014 the Morning Glories Found a Perfect Place to Hang",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -339,7 +339,7 @@
   "n": 29,
   "file": "633495F3-596D-47E7-8D7D-2E70DD7AF594.webp",
   "src": "webp/633495F3-596D-47E7-8D7D-2E70DD7AF594.webp",
-  "title": "Chiles on the Plant",
+  "title": "Our Organic Cayenne Long Slim Pepper \u2014 a Hot, Slender Heirloom Chili for Drying and Hot Sauce",
   "cat": "peppers",
   "when": "",
   "note": "",
@@ -357,7 +357,7 @@
   "note": "",
   "portrait": false,
   "tone": "#977873",
-  "keep": true
+  "keep": false
  },
  {
   "n": 31,
@@ -369,7 +369,7 @@
   "note": "",
   "portrait": false,
   "tone": "#9B806B",
-  "keep": true
+  "keep": false
  },
  {
   "n": 32,
@@ -381,7 +381,7 @@
   "note": "",
   "portrait": false,
   "tone": "#82824A",
-  "keep": true
+  "keep": false
  },
  {
   "n": 33,
@@ -393,7 +393,7 @@
   "note": "",
   "portrait": false,
   "tone": "#92746F",
-  "keep": true
+  "keep": false
  },
  {
   "n": 34,
@@ -405,13 +405,13 @@
   "note": "",
   "portrait": true,
   "tone": "#9E826A",
-  "keep": true
+  "keep": false
  },
  {
   "n": 35,
   "file": "6E3C5D7A-D019-4253-80FF-459FE8E9F76D.webp",
   "src": "webp/6E3C5D7A-D019-4253-80FF-459FE8E9F76D.webp",
-  "title": "Needs a Home",
+  "title": "Our Organic Brad's Atomic Grape \u2014 an Award-Winning Tomato Bred by Brad Gates of Wild Boar Farms",
   "cat": "unsorted",
   "when": "",
   "note": "",
@@ -429,7 +429,7 @@
   "note": "",
   "portrait": false,
   "tone": "#6C7D68",
-  "keep": true
+  "keep": false
  },
  {
   "n": 37,
@@ -441,7 +441,7 @@
   "note": "",
   "portrait": false,
   "tone": "#928379",
-  "keep": true
+  "keep": false
  },
  {
   "n": 38,
@@ -453,7 +453,7 @@
   "note": "",
   "portrait": false,
   "tone": "#516D46",
-  "keep": true
+  "keep": false
  },
  {
   "n": 39,
@@ -465,7 +465,7 @@
   "note": "",
   "portrait": false,
   "tone": "#8A7566",
-  "keep": true
+  "keep": false
  },
  {
   "n": 40,
@@ -477,7 +477,7 @@
   "note": "",
   "portrait": false,
   "tone": "#33A63F",
-  "keep": true
+  "keep": false
  },
  {
   "n": 41,
@@ -489,13 +489,13 @@
   "note": "",
   "portrait": false,
   "tone": "#69744C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 42,
   "file": "85B148B0-FE09-4A53-87B8-E30A11E6D087.webp",
   "src": "webp/85B148B0-FE09-4A53-87B8-E30A11E6D087.webp",
-  "title": "Yellow Squash on the Vine",
+  "title": "Dad's Sunset \u2014 a Glowing Golden-Orange Heirloom Tomato with a Sweet, Fruity Flavor",
   "cat": "squash",
   "when": "",
   "note": "",
@@ -513,7 +513,7 @@
   "note": "",
   "portrait": false,
   "tone": "#9F8873",
-  "keep": true
+  "keep": false
  },
  {
   "n": 44,
@@ -525,7 +525,7 @@
   "note": "",
   "portrait": false,
   "tone": "#9A746B",
-  "keep": true
+  "keep": false
  },
  {
   "n": 45,
@@ -537,7 +537,7 @@
   "note": "",
   "portrait": false,
   "tone": "#8A7248",
-  "keep": true
+  "keep": false
  },
  {
   "n": 46,
@@ -561,7 +561,7 @@
   "note": "",
   "portrait": false,
   "tone": "#8B877D",
-  "keep": true
+  "keep": false
  },
  {
   "n": 48,
@@ -573,7 +573,7 @@
   "note": "",
   "portrait": true,
   "tone": "#6A6A6A",
-  "keep": true
+  "keep": false
  },
  {
   "n": 49,
@@ -597,7 +597,7 @@
   "note": "",
   "portrait": true,
   "tone": "#547D4E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 51,
@@ -609,7 +609,7 @@
   "note": "",
   "portrait": false,
   "tone": "#8C766E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 52,
@@ -627,7 +627,7 @@
   "n": 53,
   "file": "ACE6C659-FF51-4CBD-9ED6-553E4E8B0757 2.webp",
   "src": "webp/ACE6C659-FF51-4CBD-9ED6-553E4E8B0757 2.webp",
-  "title": "Red Sunflowers",
+  "title": "Charlotte's Garden Welcomes You",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -645,13 +645,13 @@
   "note": "",
   "portrait": false,
   "tone": "#7F795C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 55,
   "file": "BAC65FF8-9E88-46D2-BADF-95AD6A907E41 2.webp",
   "src": "webp/BAC65FF8-9E88-46D2-BADF-95AD6A907E41 2.webp",
-  "title": "Row Covers Going In",
+  "title": "When You're Fighting to Keep Your Garden Alive, and All You Have Are Bee's Grocery Bags (It Worked)",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -669,13 +669,13 @@
   "note": "",
   "portrait": true,
   "tone": "#919352",
-  "keep": true
+  "keep": false
  },
  {
   "n": 57,
   "file": "BD34E0B1-7065-4A0E-8049-6A270DCEF2AE.webp",
   "src": "webp/BD34E0B1-7065-4A0E-8049-6A270DCEF2AE.webp",
-  "title": "The Harvest on the Tablecloth",
+  "title": "This Was a Fun Harvest, I Love the Colors and Shapes",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -693,7 +693,7 @@
   "note": "",
   "portrait": false,
   "tone": "#6D4847",
-  "keep": true
+  "keep": false
  },
  {
   "n": 59,
@@ -705,13 +705,13 @@
   "note": "",
   "portrait": false,
   "tone": "#948976",
-  "keep": true
+  "keep": false
  },
  {
   "n": 60,
   "file": "C93C56FD-8FA6-4D84-BB5F-6F393B6C6BB6.webp",
   "src": "webp/C93C56FD-8FA6-4D84-BB5F-6F393B6C6BB6.webp",
-  "title": "Charlotte Minding the Stand",
+  "title": "Me Tending the Stand",
   "cat": "stand",
   "when": "",
   "note": "",
@@ -729,7 +729,7 @@
   "note": "",
   "portrait": false,
   "tone": "#AE8C7E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 62,
@@ -741,7 +741,7 @@
   "note": "",
   "portrait": false,
   "tone": "#9E7A5C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 63,
@@ -753,7 +753,7 @@
   "note": "",
   "portrait": false,
   "tone": "#8A6B6A",
-  "keep": true
+  "keep": false
  },
  {
   "n": 64,
@@ -765,13 +765,13 @@
   "note": "",
   "portrait": true,
   "tone": "#618A6C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 65,
   "file": "F20EEB68-4948-42D7-AD58-51CE588310B0 2.webp",
   "src": "webp/F20EEB68-4948-42D7-AD58-51CE588310B0 2.webp",
-  "title": "The Pink Pig",
+  "title": "Oink Oink... Our Security Guard, Posted 24/7",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -789,7 +789,7 @@
   "note": "",
   "portrait": false,
   "tone": "#A64021",
-  "keep": true
+  "keep": false
  },
  {
   "n": 67,
@@ -801,7 +801,7 @@
   "note": "",
   "portrait": false,
   "tone": "#9D8670",
-  "keep": true
+  "keep": false
  },
  {
   "n": 68,
@@ -825,13 +825,13 @@
   "note": "",
   "portrait": false,
   "tone": "#8E8B72",
-  "keep": true
+  "keep": false
  },
  {
   "n": 70,
   "file": "IMG_0197.webp",
   "src": "webp/IMG_0197.webp",
-  "title": "Ribbed Yellow Heirloom",
+  "title": "We Grow Big Fruit \u2014 This Beauty Is an Orange Accordion",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -849,7 +849,7 @@
   "note": "",
   "portrait": false,
   "tone": "#748051",
-  "keep": true
+  "keep": false
  },
  {
   "n": 72,
@@ -861,7 +861,7 @@
   "note": "",
   "portrait": false,
   "tone": "#7D8958",
-  "keep": true
+  "keep": false
  },
  {
   "n": 73,
@@ -873,13 +873,13 @@
   "note": "",
   "portrait": true,
   "tone": "#A78055",
-  "keep": true
+  "keep": false
  },
  {
   "n": 74,
   "file": "IMG_0614.webp",
   "src": "webp/IMG_0614.webp",
-  "title": "Three Dark Heirlooms",
+  "title": "Our Organic Heirloom Black Beauty Tomatoes \u2014 a Striking Indigo Variety Bred by Brad Gates in Napa, California",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -897,13 +897,13 @@
   "note": "",
   "portrait": false,
   "tone": "#72847E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 76,
   "file": "IMG_20220806_123757_905.webp",
   "src": "webp/IMG_20220806_123757_905.webp",
-  "title": "Orange and Black on Marble",
+  "title": "That's a Regular-Sized Cherry Tomato",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -921,13 +921,13 @@
   "note": "",
   "portrait": false,
   "tone": "#5D3E27",
-  "keep": true
+  "keep": false
  },
  {
   "n": 78,
   "file": "IMG_3135 2.webp",
   "src": "webp/IMG_3135 2.webp",
-  "title": "Monarch on the Mexican Sunflower",
+  "title": "A Monarch Gently Lands on a Mexican Red Torch Sunflower",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -939,7 +939,7 @@
   "n": 79,
   "file": "IMG_4651 Copy.webp",
   "src": "webp/IMG_4651 Copy.webp",
-  "title": "Board Full, Second Pass",
+  "title": "An Array of Organic Heirloom Tomatoes",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -957,7 +957,7 @@
   "note": "",
   "portrait": true,
   "tone": "#677C10",
-  "keep": true
+  "keep": false
  },
  {
   "n": 81,
@@ -969,13 +969,13 @@
   "note": "",
   "portrait": false,
   "tone": "#83836F",
-  "keep": true
+  "keep": false
  },
  {
   "n": 82,
   "file": "PXL_20210713_002848335 2.webp",
   "src": "webp/PXL_20210713_002848335 2.webp",
-  "title": "The Stand, Painted",
+  "title": "John Finished Building the Produce Stand, I Painted It",
   "cat": "stand",
   "when": "",
   "note": "",
@@ -993,7 +993,7 @@
   "note": "",
   "portrait": true,
   "tone": "#807047",
-  "keep": true
+  "keep": false
  },
  {
   "n": 84,
@@ -1005,7 +1005,7 @@
   "note": "",
   "portrait": false,
   "tone": "#A58C6D",
-  "keep": true
+  "keep": false
  },
  {
   "n": 85,
@@ -1017,7 +1017,7 @@
   "note": "",
   "portrait": true,
   "tone": "#837E7C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 86,
@@ -1029,7 +1029,7 @@
   "note": "",
   "portrait": false,
   "tone": "#70735F",
-  "keep": true
+  "keep": false
  },
  {
   "n": 87,
@@ -1041,7 +1041,7 @@
   "note": "",
   "portrait": true,
   "tone": "#826F51",
-  "keep": true
+  "keep": false
  },
  {
   "n": 88,
@@ -1053,7 +1053,7 @@
   "note": "",
   "portrait": true,
   "tone": "#63654C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 89,
@@ -1065,7 +1065,7 @@
   "note": "",
   "portrait": true,
   "tone": "#6C6C6C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 90,
@@ -1077,7 +1077,7 @@
   "note": "",
   "portrait": true,
   "tone": "#727681",
-  "keep": true
+  "keep": false
  },
  {
   "n": 91,
@@ -1089,13 +1089,13 @@
   "note": "",
   "portrait": true,
   "tone": "#7C7267",
-  "keep": true
+  "keep": false
  },
  {
   "n": 92,
   "file": "PXL_20220525_002920568.PORTRAIT~2 2.webp",
   "src": "webp/PXL_20220525_002920568.PORTRAIT~2 2.webp",
-  "title": "The Sign, Close Up",
+  "title": "Charlotte's Garden After Tilling \u2014 This Sign Was a Gift from Beth Lock, My Mother-in-Law",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -1113,7 +1113,7 @@
   "note": "",
   "portrait": true,
   "tone": "#746444",
-  "keep": true
+  "keep": false
  },
  {
   "n": 94,
@@ -1125,7 +1125,7 @@
   "note": "",
   "portrait": true,
   "tone": "#726542",
-  "keep": true
+  "keep": false
  },
  {
   "n": 95,
@@ -1137,13 +1137,13 @@
   "note": "",
   "portrait": true,
   "tone": "#6E6641",
-  "keep": true
+  "keep": false
  },
  {
   "n": 96,
   "file": "PXL_20220610_015610857 2.webp",
   "src": "webp/PXL_20220610_015610857 2.webp",
-  "title": "Young Plants, Long Rows",
+  "title": "Our Produce Soaking Up the Sun and Getting Established",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -1161,13 +1161,13 @@
   "note": "",
   "portrait": true,
   "tone": "#6D777E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 98,
   "file": "PXL_20220618_010006528.PORTRAIT 2.webp",
   "src": "webp/PXL_20220618_010006528.PORTRAIT 2.webp",
-  "title": "Charlotte at the Sign",
+  "title": "Me and My Sign",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -1185,13 +1185,13 @@
   "note": "",
   "portrait": true,
   "tone": "#6E6B22",
-  "keep": true
+  "keep": false
  },
  {
   "n": 100,
   "file": "PXL_20220721_015752608.PORTRAIT~2.webp",
   "src": "webp/PXL_20220721_015752608.PORTRAIT~2.webp",
-  "title": "Striped Green Squash",
+  "title": "Can You Guess the Name of This Pumpkin? Email Me Your Answer \u2014 Correct Guesses Win a Prize at My Stand",
   "cat": "squash",
   "when": "",
   "note": "",
@@ -1209,7 +1209,7 @@
   "note": "",
   "portrait": false,
   "tone": "#7C7941",
-  "keep": true
+  "keep": false
  },
  {
   "n": 102,
@@ -1221,13 +1221,13 @@
   "note": "",
   "portrait": false,
   "tone": "#79712C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 103,
   "file": "PXL_20220730_163901146.webp",
   "src": "webp/PXL_20220730_163901146.webp",
-  "title": "Cherries in the Green Dish",
+  "title": "Organic Heirloom Cherry Tomatoes",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1239,7 +1239,7 @@
   "n": 104,
   "file": "PXL_20220814_180742734.PORTRAIT~2.webp",
   "src": "webp/PXL_20220814_180742734.PORTRAIT~2.webp",
-  "title": "Ribbed Orange on the Vine",
+  "title": "The Orange Accordion \u2014 a Massive, Deeply Ribbed Heirloom Tomato with Bright Orange Skin, Sweet Fruity Flavor, and Hollow Seed Cavities",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1257,7 +1257,7 @@
   "note": "",
   "portrait": false,
   "tone": "#876F46",
-  "keep": true
+  "keep": false
  },
  {
   "n": 106,
@@ -1269,7 +1269,7 @@
   "note": "",
   "portrait": false,
   "tone": "#7C6A53",
-  "keep": true
+  "keep": false
  },
  {
   "n": 107,
@@ -1281,7 +1281,7 @@
   "note": "",
   "portrait": false,
   "tone": "#776154",
-  "keep": true
+  "keep": false
  },
  {
   "n": 108,
@@ -1293,7 +1293,7 @@
   "note": "",
   "portrait": false,
   "tone": "#7D684E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 109,
@@ -1305,7 +1305,7 @@
   "note": "",
   "portrait": false,
   "tone": "#65623E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 110,
@@ -1317,7 +1317,7 @@
   "note": "",
   "portrait": true,
   "tone": "#9D7628",
-  "keep": true
+  "keep": false
  },
  {
   "n": 111,
@@ -1329,13 +1329,13 @@
   "note": "",
   "portrait": true,
   "tone": "#9C8D60",
-  "keep": true
+  "keep": false
  },
  {
   "n": 112,
   "file": "PXL_20240629_003823204~3 2.webp",
   "src": "webp/PXL_20240629_003823204~3 2.webp",
-  "title": "A Bee in the Queen Anne's Lace",
+  "title": "Carrot Bloom with a Bee",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -1347,7 +1347,7 @@
   "n": 113,
   "file": "PXL_20240714_205840738~2.webp",
   "src": "webp/PXL_20240714_205840738~2.webp",
-  "title": "Green on the Vine",
+  "title": "Young Cherokee Purple Tomatoes",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1365,7 +1365,7 @@
   "note": "",
   "portrait": false,
   "tone": "#4F6428",
-  "keep": true
+  "keep": false
  },
  {
   "n": 115,
@@ -1389,7 +1389,7 @@
   "note": "",
   "portrait": true,
   "tone": "#5C5832",
-  "keep": true
+  "keep": false
  },
  {
   "n": 117,
@@ -1401,7 +1401,7 @@
   "note": "",
   "portrait": true,
   "tone": "#656D20",
-  "keep": true
+  "keep": false
  },
  {
   "n": 118,
@@ -1413,13 +1413,13 @@
   "note": "",
   "portrait": true,
   "tone": "#8D9144",
-  "keep": true
+  "keep": false
  },
  {
   "n": 119,
   "file": "PXL_20240721_024016051~3 2.webp",
   "src": "webp/PXL_20240721_024016051~3 2.webp",
-  "title": "The Garden Arch",
+  "title": "Our 2024 Garden Loaded with Fresh, Organic Produce",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -1437,13 +1437,13 @@
   "note": "",
   "portrait": true,
   "tone": "#836F65",
-  "keep": true
+  "keep": false
  },
  {
   "n": 121,
   "file": "PXL_20240723_014219740.webp",
   "src": "webp/PXL_20240723_014219740.webp",
-  "title": "Weighing a Green One",
+  "title": "Go Big or Go Home \u2014 This Heirloom Isn't Even Ripe Yet!",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1461,13 +1461,13 @@
   "note": "",
   "portrait": true,
   "tone": "#5A703B",
-  "keep": true
+  "keep": false
  },
  {
   "n": 123,
   "file": "PXL_20240726_042404973.webp",
   "src": "webp/PXL_20240726_042404973.webp",
-  "title": "The Haul on the Chile Cloth",
+  "title": "A Slow Day at the End of the Season",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1485,7 +1485,7 @@
   "note": "",
   "portrait": false,
   "tone": "#8F7C52",
-  "keep": true
+  "keep": false
  },
  {
   "n": 125,
@@ -1497,13 +1497,13 @@
   "note": "",
   "portrait": true,
   "tone": "#86926E",
-  "keep": true
+  "keep": false
  },
  {
   "n": 126,
   "file": "PXL_20240729_022642079 2.webp",
   "src": "webp/PXL_20240729_022642079 2.webp",
-  "title": "Reaching the Top",
+  "title": "John Reaching for a Titan Sunflower, a 9-10 Foot Monster",
   "cat": "garden",
   "when": "",
   "note": "",
@@ -1521,7 +1521,7 @@
   "note": "",
   "portrait": true,
   "tone": "#465E52",
-  "keep": true
+  "keep": false
  },
  {
   "n": 128,
@@ -1533,7 +1533,7 @@
   "note": "",
   "portrait": true,
   "tone": "#4D6151",
-  "keep": true
+  "keep": false
  },
  {
   "n": 129,
@@ -1575,7 +1575,7 @@
   "n": 132,
   "file": "PXL_20240809_032928228~4.webp",
   "src": "webp/PXL_20240809_032928228~4.webp",
-  "title": "Striped on Stone",
+  "title": "Our Organic Tomatoes Pop!",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1587,7 +1587,7 @@
   "n": 133,
   "file": "PXL_20240809_033002655~3.webp",
   "src": "webp/PXL_20240809_033002655~3.webp",
-  "title": "The Big Yellow One",
+  "title": "Orange Accordion at Its Breaker Stage",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1605,7 +1605,7 @@
   "note": "",
   "portrait": true,
   "tone": "#827460",
-  "keep": true
+  "keep": false
  },
  {
   "n": 135,
@@ -1617,13 +1617,13 @@
   "note": "",
   "portrait": true,
   "tone": "#7A8062",
-  "keep": true
+  "keep": false
  },
  {
   "n": 136,
   "file": "PXL_20240811_201453136~2.webp",
   "src": "webp/PXL_20240811_201453136~2.webp",
-  "title": "Dark Tomato on the Plant",
+  "title": "Our Organic Sart Roloise Tomato \u2014 an Ivory-White Beefsteak Heirloom with Deep Indigo-Purple Brushstrokes",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1635,7 +1635,7 @@
   "n": 137,
   "file": "PXL_20240812_003010061~3.webp",
   "src": "webp/PXL_20240812_003010061~3.webp",
-  "title": "Green Pepper Hanging",
+  "title": "Our Organic Habanero Peppers \u2014 a Very Hot, Lantern-Shaped Chili with a Fruity Flavor",
   "cat": "peppers",
   "when": "",
   "note": "",
@@ -1653,7 +1653,7 @@
   "note": "",
   "portrait": true,
   "tone": "#586F19",
-  "keep": true
+  "keep": false
  },
  {
   "n": 139,
@@ -1665,7 +1665,7 @@
   "note": "",
   "portrait": true,
   "tone": "#596339",
-  "keep": true
+  "keep": false
  },
  {
   "n": 140,
@@ -1677,13 +1677,13 @@
   "note": "",
   "portrait": true,
   "tone": "#576C3C",
-  "keep": true
+  "keep": false
  },
  {
   "n": 141,
   "file": "PXL_20240827_035248886~2.webp",
   "src": "webp/PXL_20240827_035248886~2.webp",
-  "title": "The Full Crate",
+  "title": "A Good Harvest Day",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1707,7 +1707,7 @@
   "n": 143,
   "file": "PXL_20240828_014733573.webp",
   "src": "webp/PXL_20240828_014733573.webp",
-  "title": "A Head Full of Seed",
+  "title": "Do You Like Sunflower Seeds?",
   "cat": "flowers",
   "when": "",
   "note": "",
@@ -1725,7 +1725,7 @@
   "note": "",
   "portrait": true,
   "tone": "#6D7051",
-  "keep": true
+  "keep": false
  },
  {
   "n": 145,
@@ -1737,7 +1737,7 @@
   "note": "",
   "portrait": true,
   "tone": "#554E36",
-  "keep": true
+  "keep": false
  },
  {
   "n": 146,
@@ -1749,13 +1749,13 @@
   "note": "",
   "portrait": true,
   "tone": "#767F42",
-  "keep": true
+  "keep": false
  },
  {
   "n": 147,
   "file": "PXL_20240907_170708793.PORTRAIT.ORIGINAL.webp",
   "src": "webp/PXL_20240907_170708793.PORTRAIT.ORIGINAL.webp",
-  "title": "At the Stand",
+  "title": "A Happy Day at Our Old Location",
   "cat": "stand",
   "when": "",
   "note": "",
@@ -1767,7 +1767,7 @@
   "n": 148,
   "file": "PXL_20240908_213008766~3.webp",
   "src": "webp/PXL_20240908_213008766~3.webp",
-  "title": "Green Striped on the Vine",
+  "title": "Happy Tomatoes Growing",
   "cat": "tomatoes",
   "when": "",
   "note": "",
@@ -1797,7 +1797,7 @@
   "note": "",
   "portrait": true,
   "tone": "#7E9192",
-  "keep": true
+  "keep": false
  },
  {
   "n": 151,
@@ -1809,7 +1809,7 @@
   "note": "",
   "portrait": true,
   "tone": "#555C35",
-  "keep": true
+  "keep": false
  },
  {
   "n": 152,
@@ -1821,7 +1821,7 @@
   "note": "",
   "portrait": true,
   "tone": "#877D73",
-  "keep": true
+  "keep": false
  },
  {
   "n": 153,
@@ -1833,7 +1833,7 @@
   "note": "",
   "portrait": true,
   "tone": "#8B8174",
-  "keep": true
+  "keep": false
  },
  {
   "n": 154,
@@ -1845,7 +1845,7 @@
   "note": "",
   "portrait": false,
   "tone": "#C0A99A",
-  "keep": true
+  "keep": false
  },
  {
   "n": 155,
@@ -1857,7 +1857,7 @@
   "note": "",
   "portrait": true,
   "tone": "#5E483F",
-  "keep": true
+  "keep": false
  },
  {
   "n": 156,

@@ -265,6 +265,10 @@ h1{font-family:var(--display);font-weight:500;font-size:clamp(32px,4.4vw,54px);
 
 .bar{position:sticky;top:0;z-index:30;background:var(--sw-yellow-pale);
   border-bottom:2px solid var(--sw-burgundy);padding:16px 0;min-height:64px}
+.bar-wrap{display:flex;align-items:center;gap:12px}
+.bar-logo{display:flex;align-items:center;justify-content:center;width:40px;height:40px;flex-shrink:0;border-radius:50%;background:var(--sw-burgundy);transition:opacity .2s}
+.bar-logo:hover{opacity:.8}
+.bar-logo img{width:32px;height:32px;display:block}
 .chips{display:flex;flex-wrap:wrap;gap:9px;align-items:center}
 .chip{font:inherit;font-size:14px;font-weight:600;letter-spacing:.08em;
   text-transform:uppercase;cursor:pointer;padding:9px 15px;border-radius:0;
@@ -310,8 +314,10 @@ figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
 
 @media(max-width:820px){
   .wrap{padding:0 20px}
-  .bar{overflow-x:auto;overflow-y:hidden;padding:12px 0}
-  .chips{flex-wrap:nowrap;min-width:min-content;padding:0 20px}
+  .bar{overflow-x:visible;overflow-y:visible;padding:12px 0;transition:transform .3s ease}
+  .bar.scrolled{transform:translateY(-100%)}
+  .bar-wrap{padding:0 20px}
+  .chips{flex-wrap:nowrap;min-width:min-content;overflow-x:auto}
   .grid{columns:2 150px;column-gap:12px}
   .tile{margin-bottom:12px}
   .top{padding:36px 0 30px}
@@ -331,7 +337,10 @@ figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
 <div class="band"><i></i><i></i><i></i><i></i><i></i></div>
 
 <div class="bar">
-  <div class="wrap">
+  <div class="wrap bar-wrap">
+    <a href="/" class="bar-logo" aria-label="Charlotte's Fresh Organic Produce - home">
+      <img src="webp/logo.webp" alt="">
+    </a>
     <div class="chips">
       <button class="chip on" data-f="all">Everything <em>{{TOTAL}}</em></button>
       {{CHIPS}}
@@ -378,6 +387,33 @@ lb.addEventListener('click', function(){ lb.classList.remove('open'); });
 document.addEventListener('keydown', function(e){
   if(e.key === 'Escape') lb.classList.remove('open');
 });
+
+// Bar hide/show on scroll
+(function(){
+  var bar = document.querySelector('.bar');
+  var lastScrollY = 0;
+  var scrollDirection = 'up';
+
+  window.addEventListener('scroll', function(){
+    var currentScrollY = window.scrollY;
+
+    if(currentScrollY > lastScrollY + 30){
+      // Scrolling down
+      if(scrollDirection !== 'down'){
+        scrollDirection = 'down';
+        bar.classList.add('scrolled');
+      }
+    } else if(currentScrollY < lastScrollY - 30){
+      // Scrolling up
+      if(scrollDirection !== 'up'){
+        scrollDirection = 'up';
+        bar.classList.remove('scrolled');
+      }
+    }
+
+    lastScrollY = currentScrollY;
+  }, {passive:true});
+})();
 </script>
 </body>
 </html>

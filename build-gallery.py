@@ -221,7 +221,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <title>Charlotte's Garden · Image Library</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400..900&family=Source+Serif+4:opsz,wght@8..60,300..700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..900&family=Source+Serif+4:opsz,wght@8..60,300..700&display=swap" rel="stylesheet">
 <style>
 /* Southwest palette. Every hue sampled from John and Charlotte's own photos,
    then rebuilt on a deliberate lightness ladder and contrast-checked.
@@ -236,7 +236,7 @@ TEMPLATE = r"""<!DOCTYPE html>
   --sw-burgundy:#75322D;      --sw-sage:#768149;
   --sw-teal:#096E71;          --sw-teal-light:#6FABAC;
   --sw-ink:#472825;
-  --display:'Bodoni Moda',Georgia,serif;
+  --display:'Fraunces',Georgia,serif;
   --body:'Source Serif 4',Georgia,serif;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -247,8 +247,8 @@ img{display:block;max-width:100%}
 .top{background:var(--sw-teal);color:var(--sw-yellow-pale);
   padding:52px 0 44px;border-bottom:7px solid var(--sw-burgundy)}
 .wrap{max-width:1500px;margin:0 auto;padding:0 40px}
-.ey{display:flex;align-items:center;gap:12px;margin-bottom:12px;font-size:11px;
-  font-weight:600;letter-spacing:.24em;text-transform:uppercase;color:var(--sw-yellow)}
+.ey{display:flex;align-items:center;gap:12px;margin-bottom:12px;font-size:14px;
+  font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--sw-yellow)}
 .ey::before{content:'';width:34px;height:1px;background:var(--sw-yellow)}
 h1{font-family:var(--display);font-weight:500;font-size:clamp(32px,4.4vw,54px);
   line-height:1.08;color:var(--sw-yellow-pale)}
@@ -264,9 +264,9 @@ h1{font-family:var(--display);font-weight:500;font-size:clamp(32px,4.4vw,54px);
 .band i:nth-child(5){background:var(--sw-teal)}
 
 .bar{position:sticky;top:0;z-index:30;background:var(--sw-yellow-pale);
-  border-bottom:2px solid var(--sw-burgundy);padding:16px 0}
+  border-bottom:2px solid var(--sw-burgundy);padding:16px 0;min-height:64px}
 .chips{display:flex;flex-wrap:wrap;gap:9px;align-items:center}
-.chip{font:inherit;font-size:11.5px;font-weight:600;letter-spacing:.13em;
+.chip{font:inherit;font-size:14px;font-weight:600;letter-spacing:.08em;
   text-transform:uppercase;cursor:pointer;padding:9px 15px;border-radius:0;
   border:2px solid var(--sw-burgundy);background:transparent;color:var(--sw-burgundy);
   transition:background .15s,color .15s}
@@ -287,9 +287,9 @@ main{padding:36px 0 90px}
   padding:5px 10px;min-width:38px;text-align:center}
 figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
   border-top:2px solid var(--sw-burgundy)}
-.t{display:block;font-family:var(--display);font-size:16px;line-height:1.2;
-  color:var(--sw-burgundy)}
-.w{display:block;margin-top:3px;font-size:10px;font-weight:600;letter-spacing:.15em;
+.t{display:block;font-family:var(--display);font-size:15px;line-height:1.2;
+  color:var(--sw-burgundy);font-weight:500}
+.w{display:block;margin-top:3px;font-size:14px;font-weight:600;letter-spacing:.08em;
   text-transform:uppercase;color:var(--sw-orange-deep)}
 .note{display:block;margin-top:6px;font-size:13px;color:var(--sw-sage)}
 .tile.hide{display:none}
@@ -310,6 +310,8 @@ figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
 
 @media(max-width:820px){
   .wrap{padding:0 20px}
+  .bar{overflow-x:auto;overflow-y:hidden;padding:12px 0}
+  .chips{flex-wrap:nowrap;min-width:min-content;padding:0 20px}
   .grid{columns:2 150px;column-gap:12px}
   .tile{margin-bottom:12px}
   .top{padding:36px 0 30px}
@@ -323,7 +325,7 @@ figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
   <div class="wrap">
     <div class="ey">Charlotte's Fresh Organic Produce</div>
     <h1>The Image Library</h1>
-    <p class="sub">{{TOTAL}} photographs. Every tile is numbered. Call one out by its number and we'll rename it, move it, or prune it.</p>
+    <!-- Image count and correction workflow: {{TOTAL}} photographs, numbered. To rename/move/prune: edit gallery-data.json and re-run build-gallery.py -->
   </div>
 </header>
 <div class="band"><i></i><i></i><i></i><i></i><i></i></div>
@@ -342,12 +344,7 @@ figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
     <div class="grid">{{TILES}}
     </div>
 
-    <div class="help">
-      <b>How to change any of this.</b> Open <code>gallery-data.json</code> in a text editor.
-      Set <code>"keep": false</code> to prune a photo, edit <code>"title"</code> to rename it,
-      or change <code>"cat"</code> to move it. Then run <code>python3 build-gallery.py</code>
-      again. Your edits are merged, never overwritten, and new photos get added on the end.
-    </div>
+    <!-- Gallery workflow: Edit gallery-data.json (set "keep": false to prune, edit "title" to rename, change "cat" to recategorise), then re-run python3 build-gallery.py. Edits merge, never overwritten. New photos append. -->
   </div>
 </main>
 

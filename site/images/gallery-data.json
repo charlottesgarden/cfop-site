@@ -1870,5 +1870,17 @@
   "portrait": false,
   "tone": "#6B6D31",
   "keep": true
+ },
+ {
+  "n": 157,
+  "file": "logo.webp",
+  "src": "webp/logo.webp",
+  "title": "Flowers & Pollinators",
+  "cat": "flowers",
+  "when": "",
+  "note": "",
+  "portrait": false,
+  "tone": "#C0A781",
+  "keep": true
  }
 ]

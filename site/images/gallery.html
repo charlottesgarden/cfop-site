@@ -99,6 +99,15 @@ figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
   .tile{margin-bottom:12px}
   .top{padding:36px 0 30px}
 }
+/* Mobile scroll-collapse for sticky bar */
+@media(max-width:820px){
+  .bar{max-height:80px;transition:max-height .3s ease}
+  .bar.scrolled{max-height:44px;overflow:hidden}
+  .bar.scrolled .chips{opacity:.3}
+  .bar::after{content:'☰';position:absolute;right:20px;top:50%;transform:translateY(-50%);
+    font-size:24px;color:var(--sw-burgundy);display:none;cursor:pointer}
+  .bar.scrolled::after{display:block}
+}
 @media(prefers-reduced-motion:reduce){.tile{transition:none}}
 </style>
 </head>
@@ -108,7 +117,7 @@ figcaption{padding:11px 12px 12px;background:var(--sw-yellow-pale);
   <div class="wrap">
     <div class="ey">Charlotte's Fresh Organic Produce</div>
     <h1>The Image Library</h1>
-    <p class="sub">63 photographs. Every tile is numbered. Call one out by its number and we'll rename it, move it, or prune it.</p>
+    <!-- Removed instructional text: "63 photographs. Every tile is numbered. Call one out by its number and we'll rename it, move it, or prune it." -->
   </div>
 </header>
 <div class="band"><i></i><i></i><i></i><i></i><i></i></div>
@@ -740,6 +749,40 @@ lb.addEventListener('click', function(){ lb.classList.remove('open'); });
 document.addEventListener('keydown', function(e){
   if(e.key === 'Escape') lb.classList.remove('open');
 });
+
+// Scroll-collapse behavior for mobile bar
+(function(){
+  var bar = document.querySelector('.bar');
+  var lastScrollY = 0;
+  var scrollDirection = 'up';
+
+  window.addEventListener('scroll', function(){
+    var currentScrollY = window.scrollY;
+
+    if(currentScrollY > lastScrollY + 30){
+      // Scrolling down
+      if(scrollDirection !== 'down'){
+        scrollDirection = 'down';
+        bar.classList.add('scrolled');
+      }
+    } else if(currentScrollY < lastScrollY - 30){
+      // Scrolling up
+      if(scrollDirection !== 'up'){
+        scrollDirection = 'up';
+        bar.classList.remove('scrolled');
+      }
+    }
+
+    lastScrollY = currentScrollY;
+  }, {passive:true});
+
+  // Click hamburger to toggle
+  bar.addEventListener('click', function(e){
+    if(e.target === bar || e.target.textContent === '☰'){
+      bar.classList.toggle('scrolled');
+    }
+  });
+})();
 </script>
 </body>
 </html>
